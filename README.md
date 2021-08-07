@@ -16,4 +16,4 @@ Pi Estimation: 3.1428174834936606
 
 More about [Buffon's needle problem](https://en.wikipedia.org/wiki/Buffon%27s_needle_problem).
 
-![img](https://github.com/emanuelzaymus/BuffonsNeedle/blob/master/img/BuffonsNeedle-PI.JPG)
+![img](https://github.com/emanuelzaymus/BuffonsNeedle/blob/master/readme_imgs/BuffonsNeedle-PI.JPG)
